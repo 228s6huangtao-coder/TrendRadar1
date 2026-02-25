@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-25T16:25:09.038450+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-02-25T20:04:32.467804+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 13时18分]"
-        },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
@@ -30,8 +19,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时19分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[03时19分 ~ 20时04分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 13时18分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -145,6 +145,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -180,15 +191,37 @@
           "time_info": "08时01分"
         },
         {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
           "url": "https://flash.jin10.com/detail/20260225160730290800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -237,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "特朗普：北约国家向美国全额购买武器并交付乌克兰",
@@ -371,6 +415,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "市场消息：特朗普政府已下令美国外交官游说反对监管美国科技公司处理外国人数据的行为。",
+          "url": "https://flash.jin10.com/detail/20260225190515560800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
           "url": "https://wallstreetcn.com/livenews/3058339",
           "source": "华尔街见闻-快讯",
@@ -440,19 +495,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 16时25分]"
-        },
         {
           "title": "美大军压境伊朗为何不屈服",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
@@ -515,6 +559,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时19分 ~ 16时25分]"
+        },
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 20时04分]"
         },
         {
           "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
@@ -602,6 +658,17 @@
           "time_info": "[03时19分 ~ 04时03分]"
         },
         {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://flash.jin10.com/detail/20260225025902265800",
           "source": "金十数据",
@@ -671,7 +738,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -721,6 +788,17 @@
           "time_info": "[08时01分 ~ 13时18分]"
         },
         {
+          "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
+          "url": "https://flash.jin10.com/detail/20260225193717302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
           "url": "https://www.cls.cn/detail/2293967",
           "source": "财联社热门",
@@ -743,6 +821,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "科技股反弹提振美股 亚洲股市望接力强劲开盘",
@@ -798,6 +887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -870,6 +970,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY突破98，日内涨0.10%。",
+          "url": "https://flash.jin10.com/detail/20260225193029245800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         }
       ]
     }
