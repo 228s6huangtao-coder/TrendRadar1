@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-26T19:38:05.690758+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-06-26T21:57:42.789057+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 21时57分]"
+        },
         {
           "title": "【WTI原油日内跌幅达4.0%，伊朗：霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理】WTI原油日内跌幅达4.0%，报69.04美元/桶；布伦特原油跌近4%。伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
           "url": "https://wallstreetcn.com/livenews/3125164",
@@ -19,16 +31,16 @@
           "time_info": "16时47分"
         },
         {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
           "source": "凤凰网",
           "ranks": [
-            4,
-            11
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 21时57分]"
         },
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -43,16 +55,15 @@
           "time_info": "[02时01分 ~ 06时15分]"
         },
         {
-          "title": "在伊华商：战争改变伊朗民众对中国的看法",
-          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
-          "source": "凤凰网",
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时47分 ~ 19时38分]"
+          "time_info": "[19时37分 ~ 21时57分]"
         },
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 16时47分]"
-        },
-        {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "伊朗民众：战争让人们重新理解了“拒绝屈辱”",
@@ -105,7 +105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -160,9 +160,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "据阿联酋国家通讯社：阿联酋外长向伊朗外长强调，必须保护霍尔木兹海峡等海域的海上航道与航行自由。",
+          "url": "https://flash.jin10.com/detail/20260626214248710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -174,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗和美国开设沟通渠道，就霍尔木兹海峡进行协调。美伊霍尔木兹沟通渠道将防止军事升级。（伊朗Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "国际原子能机构总干事格罗西：我们希望尽快前往伊朗。",
@@ -209,15 +231,48 @@
           "time_info": "04时02分"
         },
         {
+          "title": "据阿联酋国家通讯社：阿联酋外交部长在与伊朗外长的电话交谈中强调，必须全面遵守美伊协议的条款。",
+          "url": "https://flash.jin10.com/detail/20260626214023980800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "伊朗外交部：海合会与美国联合声明“挑衅且不负责任”",
           "url": "https://wallstreetcn.com/livenews/3125265",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "据阿联酋国家通讯社：阿联酋外长接到伊朗外长电话，讨论最新的地区动态。",
+          "url": "https://flash.jin10.com/detail/20260626213853229800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
@@ -229,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，22名被美国扣押的伊朗油轮船员被移交至伊朗驻巴基斯坦卡拉奇领事馆。",
+          "url": "https://flash.jin10.com/detail/20260626213814505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "伊朗警告船舶勿使用未经授权的海峡航线",
@@ -259,9 +325,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "阿联酋向伊朗表示，严肃的外交途径才是化解当前危机的首选方式。",
+          "url": "https://flash.jin10.com/detail/20260626213257886800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -289,7 +366,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -323,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
@@ -411,7 +499,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -562,7 +650,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -575,6 +663,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时03分 ~ 16时47分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时57分]"
         },
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -590,15 +690,15 @@
           "time_info": "[06时15分 ~ 16时47分]"
         },
         {
-          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
-          "url": "https://wallstreetcn.com/articles/3775571",
-          "source": "华尔街见闻",
+          "title": "美股盘初：纳指跌1.1%，费城半导体指数跌超4%，美光科技跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3125341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美股",
@@ -637,6 +737,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3125328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
           "url": "https://wallstreetcn.com/livenews/3124857",
           "source": "华尔街见闻-快讯",
@@ -648,6 +759,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2410602",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与大豆基金领跑",
           "url": "https://wallstreetcn.com/livenews/3124856",
           "source": "华尔街见闻-快讯",
@@ -657,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260626214134858800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。",
