@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T12:59:23.041895+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-07-24T15:28:44.540971+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -49,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -98,17 +98,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260724072812353800",
           "source": "金十数据",
@@ -118,6 +107,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时28分]"
         },
         {
           "title": "伊朗、胡塞武装：已做好应战准备",
@@ -142,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 02时06分]"
+        },
+        {
+          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.cls.cn/detail/2435700",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时28分]"
         },
         {
           "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
@@ -184,7 +197,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -217,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -286,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
-          "url": "https://www.cls.cn/detail/2435700",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "据伊朗媒体：伊朗中部亚兹德省塔夫特地区发生爆炸。",
@@ -398,6 +400,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊外长：任何袭击伊朗的源头都将成防御行动合法目标",
+          "url": "https://wallstreetcn.com/livenews/3139262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "市场消息：德国外交官称，德国驻伊朗使馆人员已撤离。",
           "url": "https://flash.jin10.com/detail/20260724010023190800",
           "source": "金十数据",
@@ -412,8 +425,23 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时06分 ~ 15时28分]"
+        },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
@@ -433,26 +461,12 @@
             18,
             17,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 12时59分]"
-        },
-        {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时06分 ~ 12时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -463,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
@@ -539,11 +553,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 15时28分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时26分 ~ 12时59分]"
+          "time_info": "[12时59分 ~ 15时28分]"
         },
         {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
@@ -557,15 +584,15 @@
           "time_info": "06时45分"
         },
         {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "15时28分"
         },
         {
           "title": "特朗普：伊朗尚未准备好达成协议",
@@ -588,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "据报道，泽连斯基将于7月28日在美国会晤特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
@@ -640,6 +678,18 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 15时28分]"
+        },
+        {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -651,16 +701,18 @@
           "time_info": "[00时36分 ~ 06时45分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            12,
+            3,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 15时28分]"
         },
         {
           "title": "美股",
@@ -677,19 +729,6 @@
           "time_info": "[00时36分 ~ 07时48分]"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 12时59分]"
-        },
-        {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
@@ -698,8 +737,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 15时28分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 15时28分]"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -711,17 +761,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -857,7 +896,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
