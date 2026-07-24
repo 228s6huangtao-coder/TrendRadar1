@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T09:26:44.837068+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-07-24T12:59:23.041895+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时06分 ~ 09时26分]"
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 12时59分]"
         },
         {
           "title": "据德黑兰时报：英国外交人员撤离德黑兰是美方施压伊朗的“心理战”。德国大使认为，因为英国把伊朗革命卫队列为威胁后，伊朗可能会驱逐英国外交官，所以英国提前撤离人员避免被动。",
@@ -42,6 +43,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗外长：扣押他国资产“极具煽动性”",
+          "url": "https://wallstreetcn.com/livenews/3139224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "以色列防长称已为应对伊朗局势做好“全方位准备”",
           "url": "https://flash.jin10.com/detail/20260724014356277800",
           "source": "金十数据",
@@ -64,6 +76,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "胡塞武装开辟伊朗战争“第二战线”！曼德海峡告急，沙特出口面临新风险",
+          "url": "https://flash.jin10.com/detail/20260724124321790800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：科威特发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260724000347028800",
           "source": "金十数据",
@@ -73,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
@@ -144,6 +178,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：阿拉伯媒体称，位于巴林的美国海军第五舰队遭到空袭。",
+          "url": "https://flash.jin10.com/detail/20260724123512835800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
           "url": "https://wallstreetcn.com/livenews/3139085",
           "source": "华尔街见闻-快讯",
@@ -164,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗称伊斯法罕省遭美国袭击",
+          "url": "https://wallstreetcn.com/livenews/3139214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美军称连续第13晚袭击伊朗",
@@ -232,13 +288,24 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.cls.cn/detail/2435700",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "据伊朗媒体：伊朗中部亚兹德省塔夫特地区发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260724091249322800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -282,7 +349,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -345,7 +412,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -365,11 +432,12 @@
           "ranks": [
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 09时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 12时59分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -383,8 +451,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时06分 ~ 09时26分]"
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
@@ -398,24 +478,13 @@
           "time_info": "00时37分"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "据悉特朗普对伊朗战争久拖不决感到沮丧",
           "url": "https://flash.jin10.com/detail/20260724092023743800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -465,6 +534,18 @@
           "time_info": "[00时36分 ~ 02时06分]"
         },
         {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时59分]"
+        },
+        {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
           "url": "https://flash.jin10.com/detail/20260724060544831800",
           "source": "金十数据",
@@ -476,15 +557,15 @@
           "time_info": "06时45分"
         },
         {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "12时59分"
         },
         {
           "title": "特朗普：伊朗尚未准备好达成协议",
@@ -556,7 +637,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -578,8 +659,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 09时26分]"
+          "appearance_count": 5,
+          "time_info": "[06时45分 ~ 12时59分]"
         },
         {
           "title": "美股",
@@ -605,19 +686,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 09时26分]"
-        },
-        {
-          "title": "美股科技七巨头市值蒸发近8千亿美元",
-          "url": "https://www.toutiao.com/trending/7665870757104193078/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 5,
+          "time_info": "[06时45分 ~ 12时59分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -628,8 +698,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 12时59分]"
+        },
+        {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -751,6 +843,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋 马斯克 谷歌 google gemini A股 chatgpt openai 港股 金价 日经 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学者：黄金价格尚未迎来击球区",
+          "url": "https://www.toutiao.com/trending/7665878483473550911/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     }
